@@ -87,14 +87,14 @@ I have this option added to the options on the form, but it's also great to seiz
 Also Giving great Questions for when we meet up with the domain expert:
 
 >Shola Quadri  5:25 PM
-What were the main issues/problems faced with the old website/why does he want to change it?
-What are the objectives of the new website?
-Who are the end customers/users?
-Can we get access to some of them to speak to them, if needed?
-What's the budget in place (I.e. I imagine hosting subscription/small enterprise level subscription to ensure secure storage of db would be needed since users information and payment details will be getting put up on the app) --> this potentially will influence the tech stack used
-Is there a deadline he's working towards?
-Is he looking for just a web app and/or a native mobile solution?
-What is the current status of his branding (if any)? Does he want this to be overhauled as well?
+- What were the main issues/problems faced with the old website/why does he want to change it?
+- What are the objectives of the new website?
+- Who are the end customers/users?
+- Can we get access to some of them to speak to them, if needed?
+- What's the budget in place (I.e. I imagine hosting subscription/small enterprise level subscription to ensure secure storage of db would be needed since users information and payment details will be getting put up on the app) --> this potentially will influence the tech stack used
+- Is there a deadline he's working towards?
+- Is he looking for just a web app and/or a native mobile solution?
+- What is the current status of his branding (if any)? Does he want this to be overhauled as well?
 
 And putting his name forward to be product Owner
 </p>
