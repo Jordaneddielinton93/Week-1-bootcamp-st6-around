@@ -145,7 +145,7 @@ Putting across a good point towards Payment details.
 
 > It’ll be worth checking with Becks’ husband which payment method he’ll want to use (or both), as they have different transaction fees and requirements for the seller. I’ve used both at my work and they handle safety on the customer side really well. No need to ever store customer information
 </p>
-
+<hr>
 <h1>Product Owner Applications:</h1>
 
 > <h2>Shola Quadri<h2><br>
