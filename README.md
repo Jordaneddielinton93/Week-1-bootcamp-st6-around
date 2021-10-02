@@ -13,7 +13,13 @@
 <hr>
 
 <h2>Week_1 Objectives & Team Leader Jordan Linton</h2>
+<h3>Asperations</h3>
 
+- Be able to pick a Team Leader
+- Set ground rules for everyone
+- Pick a project to work on
+- Pick a name for the Team 
+- Choose a Product Owner Liaison
 <h3>Achievements </h3>
 
 - Team Leader chosen 
