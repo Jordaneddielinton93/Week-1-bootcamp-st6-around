@@ -104,6 +104,10 @@ Also Giving great Questions for when we meet up with the domain expert:
 
 And putting his name forward to be product Owner
 </p>
+
+<p>Additional contribution: reviewed Github ReadME, set up Google Folder and recurring Google Meet channel (shared in group slack channel)</p>
+
+
 <hr>
 <h2>Becki Floyd </h2>
 
