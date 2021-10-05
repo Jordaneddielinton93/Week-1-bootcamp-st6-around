@@ -26,7 +26,7 @@
 - Ground Rules Set
 - Project Chosen
 - Team Name - pending
-- Product owner - pending
+- Product owner - Amina Afzal
 
 <hr>
 <h2>Accomplishments & Acknowledgement</h2>
